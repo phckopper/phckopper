@@ -7,7 +7,7 @@ I'm a **computer engineering student** based in Brazil, currently doing my under
 During my spare time, I also operate an **amateur radio station** under the callsign **PY3PK** :satellite:
 
 👨🏻‍💻  **About Me**
-- 🔭 I’m currently working as an undergraduate researcher at the Embedded Systems Laboratory @ UFRGS, studying **machine learning** on **edge devices**
+- 🔭 I'm currently working as a **Software Developer** @ [balena.io](https://balena.io).
 - 🌱 I’m currently learning **DevOps** and **Linux administration**
-- :memo: In the past, I've worked with **PCB design**, **firmware development** (**STM32**/**NRF52832**) and done research on **fault tolerance**. I've also worked on **IoT** devices at Beyond Domotics, both software (**MQTT**/**InfluxDB**/**Grafana**/**Python**) and hardware (**KiCad**/**ESP8266**)
-- 📫 You can reach me at phckopper@inf.ufrgs.br
+- :memo: In the past, I've worked with **PCB design** and **firmware development** (**STM32**/**NRF52832**) for personal projects and done research on **fault tolerance** at the Embedded Systems Laboratory @ UFRGS. I've also worked on **IoT** devices at [Beyond Domotics](https://beyond.dm/) and [DeepX](https://deepx.it), developing both software (**MQTT**/**InfluxDB**/**Grafana**/**Python**) and hardware (**KiCad**/**ESP8266**/**Variscite SOMs**) professionally.
+- 📫 You can reach me at pedro@kopper.dev
