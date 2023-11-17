@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Pedro!
 
-![Pedro showing a quadcopter PCB on his hand](/quadcopter.png)
-
 I'm a **computer engineering student** based in Brazil, currently doing my undergrad at **Universidade Federal do Rio Grande do Sul**. I also have an **electronics technician degree**, where I got my feet wet with electronics! I love to thinker around building my own projects, specially those embedded-related. 
 
 During my spare time, I also operate an **amateur radio station** under the callsign **PY3PK** :satellite:
